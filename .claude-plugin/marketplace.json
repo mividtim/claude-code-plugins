@@ -26,6 +26,16 @@
         "url": "https://github.com/mividtim/claude-code-plugin-deps.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-plugin-deps"
+    },
+    {
+      "name": "agency",
+      "description": "Persistent agent patterns for Claude Code. Boot sequence, memory architecture, and identity management for agents that survive context compaction.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-agency.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-agency"
     }
   ]
 }

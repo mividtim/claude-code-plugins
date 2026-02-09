@@ -23,7 +23,8 @@ Go to the **Discover** tab to see and install plugins.
 | Plugin | Description |
 |--------|-------------|
 | [el](https://github.com/mividtim/claude-code-event-listeners) | Event-driven background task listeners — webhooks, CI, file changes, logs |
-| [deps](https://github.com/mividtim/claude-code-plugin-deps) | Dependency resolution between plugins |
+| [deps](https://github.com/mividtim/claude-code-plugin-deps) | Dependency resolution between plugins with semver constraints |
+| [agency](https://github.com/mividtim/claude-code-agency) | Persistent agent patterns — boot sequence, memory architecture, identity management |
 
 ## For Projects
 
