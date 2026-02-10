@@ -36,6 +36,36 @@
         "url": "https://github.com/mividtim/claude-code-agency.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-agency"
+    },
+    {
+      "name": "el-slack",
+      "description": "Slack event source for the el plugin. Listen for Slack messages via webhook with high watermark deduplication and bot filtering.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-el-slack.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-el-slack"
+    },
+    {
+      "name": "el-sendgrid",
+      "description": "SendGrid inbound email event source for the el plugin. Receive and process incoming emails via SendGrid Inbound Parse webhook.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-el-sendgrid.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-el-sendgrid"
+    },
+    {
+      "name": "el-coderabbit",
+      "description": "CodeRabbit event source for the el plugin. Poll for new code reviews, comments, and thread replies on PRs with automated thread management support.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-el-coderabbit.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-el-coderabbit"
     }
   ]
 }
