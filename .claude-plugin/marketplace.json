@@ -66,6 +66,26 @@
         "url": "https://github.com/mividtim/claude-code-el-coderabbit.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-coderabbit"
+    },
+    {
+      "name": "el-http-poll",
+      "description": "HTTP polling event source for the el plugin. Wait for URLs to match expected status and body content — useful for health checks, deploy waits, and resource availability.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-el-http-poll.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-el-http-poll"
+    },
+    {
+      "name": "recoup",
+      "description": "Sell idle Claude Code capacity on agent marketplaces. Accept sandboxed jobs via x402 micropayments and earn during quiet hours.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-recoup.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-recoup"
     }
   ]
 }
