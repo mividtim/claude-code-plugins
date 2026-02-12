@@ -88,6 +88,16 @@
       "homepage": "https://github.com/mividtim/claude-code-el-github-mentions"
     },
     {
+      "name": "el-ipc",
+      "description": "Inter-agent IPC message queue for the el plugin. SQLite-backed channels with per-agent watermarks, HTTP long-poll, CLI mode, and optional API key auth for ngrok exposure.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-el-ipc.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-el-ipc"
+    },
+    {
       "name": "recoup",
       "description": "Sell idle Claude Code capacity on agent marketplaces. Accept sandboxed jobs via x402 micropayments and earn during quiet hours.",
       "category": "productivity",
