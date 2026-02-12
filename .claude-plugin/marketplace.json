@@ -78,6 +78,16 @@
       "homepage": "https://github.com/mividtim/claude-code-el-http-poll"
     },
     {
+      "name": "el-github-mentions",
+      "description": "GitHub PR/issue mention watcher for the el plugin. Persistent server with SQLite buffering — no missed comments.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-el-github-mentions.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-el-github-mentions"
+    },
+    {
       "name": "recoup",
       "description": "Sell idle Claude Code capacity on agent marketplaces. Accept sandboxed jobs via x402 micropayments and earn during quiet hours.",
       "category": "productivity",

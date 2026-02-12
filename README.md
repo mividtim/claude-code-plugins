@@ -29,6 +29,7 @@ Go to the **Discover** tab to see and install plugins.
 | [el-sendgrid](https://github.com/mividtim/claude-code-el-sendgrid) | SendGrid inbound email event source for el |
 | [el-coderabbit](https://github.com/mividtim/claude-code-el-coderabbit) | CodeRabbit event source for el — PR reviews, comments, thread replies |
 | [el-http-poll](https://github.com/mividtim/claude-code-el-http-poll) | HTTP polling event source for el — health checks, deploy waits |
+| [el-github-mentions](https://github.com/mividtim/claude-code-el-github-mentions) | GitHub mention watcher for el — persistent server with SQLite buffering |
 | [recoup](https://github.com/mividtim/claude-code-recoup) | Sell idle capacity on agent marketplaces via x402 micropayments |
 
 ## For Projects
