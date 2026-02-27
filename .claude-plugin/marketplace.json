@@ -59,13 +59,33 @@
     },
     {
       "name": "el-coderabbit",
-      "description": "CodeRabbit event source for the el plugin. Poll for new code reviews, comments, and thread replies on PRs with automated thread management support.",
+      "description": "CodeRabbit sidecar plugin for el. Polls watched PRs for new code reviews and comments via runtime watch API. Self-registers with el-sidecar v0.9.0+.",
       "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/mividtim/claude-code-el-coderabbit.git"
       },
       "homepage": "https://github.com/mividtim/claude-code-el-coderabbit"
+    },
+    {
+      "name": "el-pr-checks",
+      "description": "PR check suite watcher sidecar plugin for el. Polls watched PRs for CI check status changes via runtime watch API. Self-registers with el-sidecar v0.9.0+.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-el-pr-checks.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-el-pr-checks"
+    },
+    {
+      "name": "el-associations",
+      "description": "Association enrichment sidecar plugin for el. Enrich incoming events with memory retrieval — keyword search + optional LLM filter. Self-registers with el-sidecar v0.9.0+.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-el-associations.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-el-associations"
     },
     {
       "name": "el-http-poll",
