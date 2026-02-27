@@ -39,7 +39,7 @@
     },
     {
       "name": "el-slack",
-      "description": "Slack event source for the el plugin. Listen for Slack messages via webhook with high watermark deduplication and bot filtering.",
+      "description": "Slack sidecar plugin for el. Webhook ingestion, conversation polling, bot filtering, watermark management. Self-registers with el-sidecar v0.9.0+.",
       "category": "productivity",
       "source": {
         "source": "url",
