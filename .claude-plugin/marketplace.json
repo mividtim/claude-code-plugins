@@ -118,6 +118,16 @@
       "homepage": "https://github.com/mividtim/claude-code-el-ipc"
     },
     {
+      "name": "personai",
+      "description": "Persistent agent identity — memory vault, journal, association search, boot sequence. The foundation for agents that survive context compaction.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mividtim/claude-code-personai.git"
+      },
+      "homepage": "https://github.com/mividtim/claude-code-personai"
+    },
+    {
       "name": "recoup",
       "description": "Sell idle Claude Code capacity on agent marketplaces. Accept sandboxed jobs via x402 micropayments and earn during quiet hours.",
       "category": "productivity",
